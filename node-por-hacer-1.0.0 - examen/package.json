@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
-    "yargs": "^11.0.0"
+    "yargs": "^17.7.2"
   }
 }
